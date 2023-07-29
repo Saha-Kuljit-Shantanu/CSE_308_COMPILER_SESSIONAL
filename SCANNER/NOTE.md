@@ -1,6 +1,8 @@
 # Build and Run
 
-To run the lex code use the following sequence of Commands
+To run the lex code use the following sequence of Commands:
+
+
 
 **chmod -x LEX_SHELL.sh**
 
