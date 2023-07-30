@@ -1,4 +1,4 @@
-# WARNING
+# Warning
 
 Deleting a Symbol from the SymbolTable is a bit buggy.
 
