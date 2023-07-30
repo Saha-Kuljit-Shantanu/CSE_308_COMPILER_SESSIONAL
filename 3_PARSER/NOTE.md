@@ -1,6 +1,6 @@
 # Build and Run
 
-To run the lex code use the following sequence of Commands:
+To run the bison code use the following sequence of Commands:
 
 <br/>
 
@@ -8,7 +8,7 @@ To run the lex code use the following sequence of Commands:
 
 **./BISON_SHELL.sh _<Input_File_Name>_**
 
-# WARNING
+# Warning
 
 - Does not handle the Syntax errors, only semantic errors
 - Does not recover Error
