@@ -11,5 +11,5 @@ To run the lex code use the following sequence of Commands:
 # WARNING
 
 - Does not handle the Syntax errors, only semantic errors
-- Error recovery is no done
+- Does not recover Error
 
