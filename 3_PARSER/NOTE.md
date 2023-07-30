@@ -1,6 +1,6 @@
 # Build and Run
 
-To run the bison code use the following sequence of Commands:
+To run the yacc bison code use the following sequence of Commands:
 
 <br/>
 
