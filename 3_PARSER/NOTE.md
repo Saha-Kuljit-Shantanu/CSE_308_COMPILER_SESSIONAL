@@ -10,6 +10,6 @@ To run the bison code use the following sequence of Commands:
 
 # Warning
 
-- Does not handle the Syntax errors, only semantic errors
+- Only handles the Syntax errors following the grammar provided and all semantic errors mentioned
 - Does not recover Error
 
