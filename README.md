@@ -3,4 +3,4 @@
 - Implementation of a Symbol Table
 - Implementation of a scanner using **flex**(Fast Lexical Analyzer)
 - Implementation of a bottom up parser using **yacc bison**(Yet Another Compiler- Compiler)
-- Intermediate Code Generation in **x86 Assembly** by Top-Down-Approach
+- Generation of Intermediate Code in **x86 Assembly** by Top-Down-Approach
